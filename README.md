@@ -2,8 +2,12 @@
 
 ## 💻 Java Developer | Spring Boot | SQL | Full Stack Java Enthusiast
 
-### 🚀 About Me
-- 🌱 Currently learning **Full Stack Java Development**
+---
+
+## 🚀 About Me
+- 🎓 Currently pursuing **B.Tech Final Year in Computer Science & Engineering**  
+  at **Srinivasa Ramanujan Institute of Technology (SRIT)**
+- 🌱 Learning **Full Stack Java Development**
 - 💡 Strong in **Core Java, Collections, Java 8, OOPs**
 - 🔧 Technologies: **Java, Spring Boot, REST API, MySQL**
 - 📫 Email: **govardhan0810@gmail.com**
@@ -35,5 +39,6 @@
 ---
 
 ⭐ **Thank you for visiting my profile!**
+
 
 
