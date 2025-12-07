@@ -1,3 +1,5 @@
+![Cover Image](https://raw.githubusercontent.com/govardhan-codes/govardhan-codes/main/govardhan-codes.jpg)
+
 # 👋 Hi, I'm Govardhan
 
 ## 💻 Java Developer | Spring Boot | SQL | Full Stack Java Enthusiast
@@ -35,12 +37,7 @@
 ![Govardhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=govardhan-codes&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=govardhan-codes&layout=compact&theme=tokyonight)
-![Cover Image](https://raw.githubusercontent.com/govardhan-codes/govardhan-codes/main/govardhan-codes.jpg)
-
 
 ---
 
 ⭐ **Thank you for visiting my profile!**
-
-
-
