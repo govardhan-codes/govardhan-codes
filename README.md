@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/govardhan-codes/govardhan-codes/main/govardhan-codes.jpg" width="330">
+  <img src="https://raw.githubusercontent.com/govardhan-codes/govardhan-codes/main/govardhan-codes.jpg" width="450">
 </p>
 
 <h1 align="center">👋 Hi, I'm Govardhan</h1>
@@ -110,4 +110,4 @@ HashMap, ArrayList, HashSet, Queue, Stack, recursion, patterns, sorting, loops.
 
 ---
 
-<p align="center">⭐ Open to Internships & Full-Time Roles in Java Backend Development ⭐</p>
+<p align="center">⭐ Open to Internships & Full-Time Roles as a Software Engineer / Developer ⭐</p>
