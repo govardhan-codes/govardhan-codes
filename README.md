@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/govardhan-codes/govardhan-codes/main/govardhan-codes.jpg" alt="Govardhan Codes Banner" width="900">
+  <img src="https://raw.githubusercontent.com/govardhan-codes/govardhan-codes/main/govardhan-codes.jpg" width="400">
 </p>
+
 
 <h1 align="center">👋 Hi, I'm Govardhan</h1>
 <h3 align="center">💻 Java Developer | Spring Boot | SQL | REST API</h3>
