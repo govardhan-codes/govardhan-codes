@@ -3,12 +3,12 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Govardhan</h1>
-<h3 align="center">Java Developer | Spring Boot | SQL | Backend Enthusiast</h3>
+<h3 align="center">Aspiring Full Stack Java Developer | Spring Boot | SQL | Backend Enthusiast</h3>
 
 ---
 
 ## 🌟 Professional Summary
-I am a motivated **Java Developer** with strong fundamentals in **Core Java, OOPs, Collections, Java 8 features**, and backend development using **Spring Boot**.
+I am a motivated **Java enthusiast** with strong fundamentals in **Core Java, OOPs, Collections, Java 8 features**, and backend development using **Spring Boot**.
 
 I also have **basic knowledge of Python** for scripting and simple automation.
 
@@ -110,4 +110,4 @@ HashMap, ArrayList, HashSet, Queue, Stack, recursion, patterns, sorting, loops.
 
 ---
 
-<p align="center">⭐ Open to Internships & Full-Time Roles as a Software Engineer / Developer ⭐</p>
+<p align="center">⭐ Open to Internships & Full-Time Roles in Software Development ⭐</p>
