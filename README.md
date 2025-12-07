@@ -1,115 +1,113 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/govardhan-codes/govardhan-codes/main/govardhan-codes.jpg" width="400">
+  <img src="https://raw.githubusercontent.com/govardhan-codes/govardhan-codes/main/govardhan-codes.jpg" width="330">
 </p>
 
-<!-- Typing Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=1AF75B&center=true&vCenter=true&width=600&lines=Hi+I'm+Govardhan+👋;Java+Developer+💻;Spring+Boot+%7C+SQL+%7C+REST+API;Full+Stack+Java+Enthusiast" alt="Typing SVG" />
-</h1>
+<h1 align="center">👋 Hi, I'm Govardhan</h1>
+<h3 align="center">Java Developer | Spring Boot | SQL | Backend Enthusiast</h3>
 
 ---
 
-## 🚀 About Me
-- 🎓 B.Tech Final Year – **Computer Science & Engineering** at **SRIT**
-- 💻 Passionate **Java Backend & Full Stack** enthusiast
-- 💡 Strong in **Core Java, OOPs, Collections, Java 8**
-- 🔧 Technologies: **Java, Spring Boot, REST API, MySQL**
-- 📫 Email: **govardhan0810@gmail.com**
-- 📱 Mobile: **8431528565**
+## 🌟 Professional Summary
+I am a motivated **Java Developer** with strong fundamentals in **Core Java, OOPs, Collections, Java 8 features**, and backend development using **Spring Boot**.
+
+I also have **basic knowledge of Python** for scripting and simple automation.
+
+With excellent **communication skills** and the ability to explain ideas clearly, I work well in teams and enjoy building clean, efficient backend systems.
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages**  
-Java · SQL  
-
-**Backend & Frameworks**  
-Spring Boot · REST API · Hibernate/JPA  
-
-**Frontend**  
-HTML · CSS · JavaScript  
-
-**Tools**  
-Git · GitHub · Maven · Postman · IntelliJ IDEA  
+## 🎓 Education
+- **B.Tech – Computer Science & Engineering (CSE)**  
+  **Srinivasa Ramanujan Institute of Technology (SRIT)**  
+  **2022 – 2026** (Final Year)
 
 ---
 
-## 📌 Projects
+## 🛠️ Technical Skills
 
-### 🔍 Fake Job Detection using Machine Learning
-A machine learning model built to classify job postings as **real or fake** using NLP and text feature extraction.
+### **Programming Languages**
+- **Java (Strong)**  
+- **Python (Basics)**  
+- SQL  
 
-**Tech Used:** Python, Scikit-learn, Pandas, NumPy, TF-IDF  
-**ML Algorithms:** Logistic Regression, Random Forest, Naive Bayes  
+### **Backend Development**
+- Spring Boot  
+- REST API  
+- Hibernate/JPA  
+- MySQL  
 
-**Features:**
-- Preprocessed job descriptions using NLP  
-- TF-IDF vectorization for feature extraction  
-- Trained and compared multiple ML models  
-- Evaluated accuracy, F1-score, confusion matrix  
-- Built a simple interface for predictions  
+### **Python Basics**
+- Basic syntax, loops, functions  
+- Lists, dictionaries  
+- File handling  
+- Beginners-level data processing (Pandas optional)  
+
+### **Frontend**
+- HTML, CSS, JavaScript  
+
+### **Developer Tools**
+- Git · GitHub · Maven · Postman · IntelliJ IDEA · VS Code  
+
+### **Soft Skills**
+- Strong Communication  
+- Problem Solving  
+- Team Collaboration  
+- Quick Learner  
+- Time Management  
 
 ---
 
-### 🧾 Spring Boot CRUD API
-A backend REST API application implementing all **CRUD operations** with validation and MySQL integration.
+## 🚀 Featured Projects
 
-**Tech Used:** Spring Boot, MySQL, Hibernate/JPA, Postman  
+### 🔍 Fake Job Detection (Machine Learning Project)
+A beginner-friendly ML project to classify job postings as **real or fake**.
 
-**Features:**
-- Endpoints: Create, Read, Update, Delete  
+**Tech:** Python, Pandas, NumPy, Scikit-learn, TF-IDF  
+**What I Did:**  
+- Cleaned and preprocessed job text  
+- Applied TF-IDF vectorization  
+- Implemented Logistic Regression / Naive Bayes  
+- Compared accuracy scores  
+
+---
+
+### 🧾 Spring Boot CRUD REST API
+A backend API that performs all CRUD operations with MySQL integration.
+
+**Highlights:**  
 - Layered architecture (Controller → Service → Repository)  
-- Validation and exception handling  
-- API testing using Postman  
+- Exception handling + request validation  
+- Tested using Postman  
 
 ---
 
 ### 🎓 Student Management System
-Handles CRUD operations for student records with database integration.
-
-**Tech Used:** Java, MySQL, JDBC / Spring Boot, HTML/CSS  
-
-**Features:**
-- Add, update, delete, search  
-- Persistent database storage  
-- Follows MVC / REST structure  
-- Simple user interface  
+A Java / Spring Boot project to manage students with CRUD operations.
 
 ---
 
-### 🔢 Java Collections & DSA Practice
-Contains Java programs solving DSA and interview questions.
+### 🔢 Java DSA & Collections Practice
+A set of Java programs demonstrating strong command over Collections.
 
-**Skills Included:**
-- HashMap, HashSet, ArrayList, Queue, Stack  
-- Recursion, Sliding Window, Two Pointer  
-- Sorting, Searching, Pattern Problems  
+**Topics Covered:**  
+HashMap, ArrayList, HashSet, Queue, Stack, recursion, patterns, sorting, loops.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=govardhan-codes&theme=onedark&column=6" alt="Trophies" />
-</p>
-
----
-
-# 🔥 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/govardhan-codes/govardhan-codes/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+## 💼 Why Recruiters Should Consider Me
+- Strong **Java + Backend** foundation  
+- Hands-on experience with **Spring Boot + REST APIs**  
+- **Basic Python** understanding  
+- Excellent **communication & presentation skills**  
+- Quick learner with strong problem-solving mindset  
+- Real project-building experience  
 
 ---
 
-# 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=govardhan-codes&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
-</p>
+## 📬 Contact
+- 📧 Email: **govardhan0810@gmail.com**  
+- 📱 Mobile: **8431528565**
 
 ---
 
-<p align="center">⭐ Thank you for visiting my profile! ⭐</p>
+<p align="center">⭐ Open to Internships & Full-Time Roles in Java Backend Development ⭐</p>
