@@ -1,4 +1,5 @@
-![Cover Image](https://raw.githubusercontent.com/govardhan-codes/govardhan-codes/main/govardhan-codes.jpg)
+![Cover Image](https://raw.githubusercontent.com/govardhan-codes/govardhan-codes/master/govardhan-codes.jpg)
+
 
 
 # 👋 Hi, I'm Govardhan
