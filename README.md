@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/govardhan-codes/govardhan-codes/main/govardhan-codes.jpg" width="400">
 </p>
 
-
 <h1 align="center">👋 Hi, I'm Govardhan</h1>
 <h3 align="center">💻 Java Developer | Spring Boot | SQL | REST API</h3>
 
@@ -39,14 +38,6 @@ Git · GitHub · Maven · Postman · IntelliJ IDEA
 - 🧾 Spring Boot CRUD API  
 - 🎓 Student Management System  
 - 🔢 Java Collections & DSA Practice  
-
----
-
-## 📊 GitHub Stats
-
-[![Govardhan's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=govardhan-codes&show_icons=true&theme=tokyonight)](https://github.com/govardhan-codes)
-
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=govardhan-codes&layout=compact&theme=tokyonight)](https://github.com/govardhan-codes)
 
 ---
 
