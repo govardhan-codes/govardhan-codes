@@ -2,8 +2,10 @@
   <img src="https://raw.githubusercontent.com/govardhan-codes/govardhan-codes/main/govardhan-codes.jpg" width="400">
 </p>
 
-<h1 align="center">👋 Hi, I'm Govardhan</h1>
-<h3 align="center">💻 Java Developer | Spring Boot | SQL | REST API</h3>
+<!-- Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=1AF75B&center=true&vCenter=true&width=600&lines=Hi+I'm+Govardhan+👋;Java+Developer+💻;Spring+Boot+%7C+SQL+%7C+REST+API;Full+Stack+Java+Enthusiast" alt="Typing SVG" />
+</h1>
 
 ---
 
@@ -45,56 +47,68 @@ A machine learning model built to classify job postings as **real or fake** usin
 - Preprocessed job descriptions using NLP  
 - TF-IDF vectorization for feature extraction  
 - Trained and compared multiple ML models  
-- Evaluated accuracy, F1-score, and confusion matrix  
+- Evaluated accuracy, F1-score, confusion matrix  
 - Built a simple interface for predictions  
-
-**Outcome:** Achieved high accuracy in identifying fraudulent job posts.
 
 ---
 
 ### 🧾 Spring Boot CRUD API
-A backend REST API application implementing all **CRUD operations** with proper validation, service layers, and database integration.
+A backend REST API application implementing all **CRUD operations** with validation and MySQL integration.
 
 **Tech Used:** Spring Boot, MySQL, Hibernate/JPA, Postman  
 
 **Features:**
-- Create, Read, Update, Delete endpoints  
-- Service + Repository layered architecture  
+- Endpoints: Create, Read, Update, Delete  
+- Layered architecture (Controller → Service → Repository)  
 - Validation and exception handling  
-- Integration with MySQL database  
-- API tested using Postman  
-
-**Outcome:** A scalable and reusable backend service for real applications.
+- API testing using Postman  
 
 ---
 
 ### 🎓 Student Management System
-A simple management system to handle student records with CRUD operations.
+Handles CRUD operations for student records with database integration.
 
 **Tech Used:** Java, MySQL, JDBC / Spring Boot, HTML/CSS  
 
 **Features:**
-- Add, update, delete, and search student details  
-- Persistent storage using MySQL  
-- MVC structure (if Java) or REST API (if Spring Boot)  
-- User-friendly interface (if frontend included)  
-
-**Outcome:** Streamlined student data handling for academic use.
+- Add, update, delete, search  
+- Persistent database storage  
+- Follows MVC / REST structure  
+- Simple user interface  
 
 ---
 
 ### 🔢 Java Collections & DSA Practice
-A collection of Java programs and DSA solutions covering essential coding interview patterns.
+Contains Java programs solving DSA and interview questions.
 
-**Tech Used:** Java, Collections Framework  
+**Skills Included:**
+- HashMap, HashSet, ArrayList, Queue, Stack  
+- Recursion, Sliding Window, Two Pointer  
+- Sorting, Searching, Pattern Problems  
 
-**Skills Demonstrated:**
-- Strong use of HashMap, HashSet, ArrayList, Queue, Stack  
-- Solved problems using two pointers, sliding window, recursion  
-- Implemented common algorithms and logic-based programs  
-- Wrote optimized, clean Java code  
+---
 
-**Outcome:** Improved problem-solving skills and Java fundamentals.
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=govardhan-codes&theme=onedark&column=6" alt="Trophies" />
+</p>
+
+---
+
+# 🔥 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/govardhan-codes/govardhan-codes/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=govardhan-codes&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
+</p>
 
 ---
 
