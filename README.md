@@ -1,4 +1,4 @@
-![Cover Image](https://raw.githubusercontent.com/govardhan-codes/govardhan-codes/main/govardhan-codes.jpg.jpg)
+![Cover Image](https://raw.githubusercontent.com/govardhan-codes/govardhan-codes/main/govardhan-codes.jpg)
 
 
 
