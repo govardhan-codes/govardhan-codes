@@ -44,7 +44,7 @@ Git · GitHub · Maven · Postman · IntelliJ IDEA
 
 ## 📊 GitHub Stats
 
-[![Govardhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=govardhan-codes&show_icons=true&theme=tokyonight)](https://github.com/govardhan-codes)
+[![Govardhan's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=govardhan-codes&show_icons=true&theme=tokyonight)](https://github.com/govardhan-codes)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=govardhan-codes&layout=compact&theme=tokyonight)](https://github.com/govardhan-codes)
 
