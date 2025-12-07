@@ -1,4 +1,4 @@
-![Cover Image](https://raw.githubusercontent.com/govardhan-codes/govardhan-codes/main/govardhan-codes.jpg.jpg)
+![Cover Image](https://raw.githubusercontent.com/govardhan-codes/govardhan-codes/main/govardhan-codes.jpg)
 
 <h1 align="center">👋 Hi, I'm Govardhan</h1>
 <h3 align="center">💻 Java Developer | Spring Boot | SQL | Full Stack Java Enthusiast</h3>
